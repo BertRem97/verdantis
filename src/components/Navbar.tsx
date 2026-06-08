@@ -38,7 +38,7 @@ export default function Navbar() {
               <BarChart3 className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold text-gray-900 tracking-tight">
-              Vergelijk<span className="text-emerald-600">Pro</span>
+              Verdantis<span className="text-emerald-600"></span>
             </span>
           </Link>
 

@@ -12,7 +12,7 @@ export default function Footer() {
                 <BarChart3 className="w-5 h-5 text-white" />
               </div>
               <span className="text-xl font-bold text-white tracking-tight">
-                Vergelijk<span className="text-emerald-400">Pro</span>
+                Verdantis<span className="text-emerald-400"></span>
               </span>
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed">
@@ -63,7 +63,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-gray-500">
-            &copy; {new Date().getFullYear()} VergelijkPro. Alle rechten voorbehouden.
+            &copy; {new Date().getFullYear()} Verdantis. Alle rechten voorbehouden.
           </p>
           <p className="text-xs text-gray-600">
             Affiliate disclaimer: Wij verdienen commissie bij aankoop via onze links. Dit beinvloedt niet onze beoordelingen.
